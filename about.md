@@ -3,8 +3,16 @@ layout: page
 title: About
 ---
 
-Hello.
+**제 블로그 보지 마세요.**
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+사람들이 제 글을 읽는다고 생각하면, 글을 쓰지 못 할 것 같아요.   
 
-**Less is more..**
+그냥 아무도 읽지 않는다고 생각하려고요.   
+
+**그래서 뇌피셜도 많고, 글 퀄리티도 낮을테니 너무 뭐라 말아요.**
+
+게을러서 얼마나 자주 포스팅 할 지 모르겠지만, 그래도 종종 글을 적어볼게요.
+
+일단 올해(2022) 안에 포스팅 5개 목표로 해봅니다. 
+
+**화이팅!**
